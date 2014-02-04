@@ -1,3 +1,5 @@
+/Remove Whitespace and comments from file/
+
 /Function below if user wants no comments/
 def noComments (line)
         length = line.length
